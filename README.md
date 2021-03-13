@@ -37,5 +37,6 @@ From the outcomes based on goal chart, we can conclude that the overall trend of
 The limitations of the datasets are:
 1. The dataset is not large enough for all categories of the campaigns. 
 2. The dataset does not include the way of each campaign hold, such as the compensation of each person who participate in this crowdfunding campaign, because this is the key reason may influence the donor’s decision.
+
 Recommendation for additional tables and graphs:
 A graph that shows the relationship between the duration of the campaign and the percentage of successful campaign.
